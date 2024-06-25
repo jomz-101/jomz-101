@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jomz-101
-- 👀 I’m interested in reading(manga, manhua, light novels), biking, badminton 
-- 🌱 I’m currently learning the new updates of java and kotlin.
+- 👀 I’m interested in reading(manga, manhua, light novels), biking🚴, badminton🏸
+- 🌱 I’m currently learning the new updates of java🍵 and kotlin.
 - 💞️ I’m looking to collaborate on something interesting..
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
